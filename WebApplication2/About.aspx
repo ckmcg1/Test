@@ -3,5 +3,5 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <p>This is my app</p>
-    <p>Testing Git Hub Version Control</p>
+    <p>Testing Git Hub Version Control 2 and this should be a conflict</p>
 </asp:Content>
